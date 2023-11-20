@@ -12,8 +12,8 @@
         "GNU General Public License v3",
         "Not open source"
       ],
-    "year": "{{ cookiecutter._year }}",
     "_year": "{% now 'utc', '%Y' %}",
+    "year": "{{ cookiecutter._year }}",
     "description": "A short description of the project."
   }
   
