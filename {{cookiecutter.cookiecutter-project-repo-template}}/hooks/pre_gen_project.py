@@ -11,7 +11,7 @@ with open('cookiecutter.json', 'r') as file:
     data = json.load(file)
 
 # Add or update the year in the data
-data['year'] = current_year
+data['current_year'] = current_year
 
 # Write the updated data back to cookiecutter.json
 with open('cookiecutter.json', 'w') as file:

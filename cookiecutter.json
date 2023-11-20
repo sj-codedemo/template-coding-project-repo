@@ -12,7 +12,6 @@
         "GNU General Public License v3",
         "Not open source"
       ],
-    "year": "{{ cookiecutter.year }}",
     "description": "A short description of the project."
   }
   
