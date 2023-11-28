@@ -2,41 +2,53 @@
 README.md
 -->
 
-<!-- Anchor for the top of the file -->
+<!-- Anchor for linking to top of the file -->
 <a name="readme-top"></a>
+
+<!-- Introduction Block -->
 
 <!-- Project Logo/Icon -->
 <div align="center">
-
   <img src="./assets/logo.svg" alt="Project Logo" width="200" height="auto" />
-  <h1>Template README.md</h1>
 
+  <!-- Header -->
+  <h1>My CookieCutter Coding Project Repo Template</h1>
+
+  <!-- Brief Description / Tagline -->
   <p>
-    Template README.md file for new projects.
+    This is my attempt at creating a CookieCutter Template for GitHub Coding Projects. <br> 
+    See the acknowledgements for links to the resources I used to create this template.
   </p>
-  
+
 <!-- Badges/Shields -->
 <p>
+  <!-- Contributors -->
   <a href="https://github.com/sj-codedemo/template-project-repository/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/sj-codedemo/template-project-repository" alt="contributors" />
   </a>
+  <!-- Last Commit -->
   <a href="">
     <img src="https://img.shields.io/github/last-commit/sj-codedemo/template-project-repository" alt="last update" />
   </a>
+  <!-- Forks -->
   <a href="https://github.com/sj-codedemo/template-project-repository/network/members">
     <img src="https://img.shields.io/github/forks/sj-codedemo/template-project-repository" alt="forks" />
   </a>
+  <!-- Stars -->
   <a href="https://github.com/sj-codedemo/template-project-repository/stargazers"></a>
     <img src="https://img.shields.io/github/stars/sj-codedemo/template-project-repository" alt="stars" />
   </a>
+     <!-- Open Issues -->
   <a href="https://github.com/sj-codedemo/template-project-repository/issues/">
     <img src="https://img.shields.io/github/issues/sj-codedemo/template-project-repository" alt="open issues" />
   </a>
+  <!-- License -->
   <a href="https://github.com/sj-codedemo/template-project-repository/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="license" />
   </a>
 </p>
 
+<!-- Quick Links -->
 <h4>
     <a href="https://github.com/sj-codedemo/template-project-repository/">View Demo</a>
   <span> · </span>
@@ -53,22 +65,22 @@ README.md
 <!-- Table of Contents -->
 # Table of Contents
 
-1. [Table of Contents](#table-of-contents)
-   1. [About the Project](#about-the-project)
-      1. [Features](#features)
-      2. [Build With](#build-with)
-   2. [Getting Started](#getting-started)
-      1. [Prerequisites](#prerequisites)
-      2. [Installation](#installation)
-      3. [Running](#running)
-   3. [Roadmap](#roadmap)
-   4. [Contributing](#contributing)
-      1. [Code of Conduct](#code-of-conduct)
-   5. [FAQ](#faq)
-   6. [License](#license)
-   7. [Contact](#contact)
-   8. [Acknowledgements](#acknowledgements)
-  
+* [About the Project](#about-the-project)
+    * [Features](#features)
+    * [Built With](#built-with)
+* [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+    * [Running](#running)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [Code of Conduct](#code-of-conduct)
+* [FAQ](#faq)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
 <!-- About the Project -->
 ## About the Project
 
@@ -87,8 +99,8 @@ TODO: Write a paragraph here informing the user what the project is and why they
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- TechStack -->
-### Build With
+<!-- Built With -->
+### Built With
 
 <div style="width: 100%;">
   <table style="width: 100%; border-collapse: collapse;">
@@ -195,21 +207,29 @@ _Provide instructions to users for how to run the app._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- Usage -->
+## Usage
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Roadmap -->
 ## Roadmap
 
 - [x] Milestone 1
-  - [x] Objective 1
-  - [x] Objective 2
-  - [x] Objective 3
+    - [x] Objective 1
+    - [x] Objective 2
+    - [x] Objective 3
 - [ ] TODO: Milestone 2
-  - [ ] TODO: Objective 1
-  - [ ] TODO: Objective 2
-  - [ ] TODO: Objective 3
+    - [ ] TODO: Objective 1
+    - [ ] TODO: Objective 2
+    - [ ] TODO: Objective 3
 - [ ] ...
-  - [ ] ...
-  - [ ] ...
-  - [ ] ...
+    - [ ] ...
+    - [ ] ...
+    - [ ] ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,15 +258,15 @@ Please read the [Code of Conduct](https://github.com/sj-codedemo/template-projec
 
 - Question 1
 
-  - Answer 1
+    - Answer 1
 
 - Question 2
 
-  - Answer 2
+    - Answer 2
 
 - Question 3
 
-  - Answer 3
+    - Answer 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
