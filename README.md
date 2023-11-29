@@ -77,9 +77,7 @@ README.md
     * [Built With](#built-with)
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-    * [Running](#running)
-* [Usage](#usage)
+    * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
@@ -124,68 +122,43 @@ TODO: Write a paragraph here informing the user what the project is and why they
 <!-- Getting Started -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 <!-- Prerequisites -->
 ### Prerequisites
 
-- Prerequisite 1
+**Python**
+
+Visit [https://www.python.org/downloads/](https://www.python.org/downloads/) for installation instructions.
+
+
+**Cookiecutter**
 
   ```bash
-  TODO: Write the install prerequisites script
+  pip install -U cookiecutter
   ```
 
-- Prerequisite 2
 
-  ```bash
-  TODO: Write the install prerequisites script
-  ```
-
-<!-- Installation -->
-### Installation
-
-_Provide instructions to users for how to install and set up the app._
-
-1. Clone the repo
-
-   ```bash
-   git clone https://github.com/sj-codedemo/template-project-repository
-   ```
-
-2. Install packages
-
-   ```bash
-   TODO: Write the install dependencies script
-   ```
-
-<!-- Running -->
-### Running
-
-_Provide instructions to users for how to run the app._
-
-1. Clone the repo
-
-   ```bash
-   git clone https://github.com/sj-codedemo/template-project-repository
-   ```
-
-2. Go to the project directory
-
-   ```bash
-   cd template-project-repository
-   ```
-
-3. Run the project
-
-   ```bash
-   TODO: Write the run script
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+For other installation options and detailed instructions,
+refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.io/en/latest/installation.html).
 
 
 <!-- Usage -->
-## Usage
+### Usage
+
+**To create a new project from this template:**
+
+1. Run the following command to generate a new project from the template:
+
+   ```bash
+   cookiecutter gh:sj-codedemo/template-project-repository
+   ```
+   
+   This command will clone the template from GitHub and prompt you to fill in various project details.
+
+
+2. Follow the interactive prompts to customise your project's configuration.
+   - TODO: Add a gif of the interactive prompt steps
+   - TODO: Add a code block with the prompts and options
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
