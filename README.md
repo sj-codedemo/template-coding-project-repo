@@ -244,5 +244,6 @@ Project Link: [https://github.com/sj-codedemo/template-project-repository](https
 - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 - [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 - [Simple Icons](https://simpleicons.org/)
+- [Commitlint](https://commitlint.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
