@@ -22,30 +22,37 @@ README.md
 
 <!-- Badges/Shields -->
 <p>
+
   <!-- Contributors -->
   <a href="https://github.com/sj-codedemo/template-project-repository/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/sj-codedemo/template-project-repository" alt="contributors" />
   </a>
+
   <!-- Last Commit -->
   <a href="">
     <img src="https://img.shields.io/github/last-commit/sj-codedemo/template-project-repository" alt="last update" />
   </a>
+
   <!-- Forks -->
   <a href="https://github.com/sj-codedemo/template-project-repository/network/members">
     <img src="https://img.shields.io/github/forks/sj-codedemo/template-project-repository" alt="forks" />
   </a>
+
   <!-- Stars -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/stargazers"></a>
+  <a href="https://github.com/sj-codedemo/template-project-repository/stargazers">
     <img src="https://img.shields.io/github/stars/sj-codedemo/template-project-repository" alt="stars" />
   </a>
-     <!-- Open Issues -->
+
+  <!-- Open Issues -->
   <a href="https://github.com/sj-codedemo/template-project-repository/issues/">
     <img src="https://img.shields.io/github/issues/sj-codedemo/template-project-repository" alt="open issues" />
   </a>
+
   <!-- License -->
   <a href="https://github.com/sj-codedemo/template-project-repository/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="license" />
   </a>
+
 </p>
 
 <!-- Quick Links -->
@@ -99,51 +106,20 @@ TODO: Write a paragraph here informing the user what the project is and why they
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Built With -->
-### Built With
+## Built With
+<!-- Note: Leave 2 blank spaces after list items/sub-items to ensure correct spacing between rendered list items -->
 
-<div style="width: 100%;">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="width: 50%; border: none;">
-        <h4>Front End</h4>
-        <ul>
-          <li>Tech 1</li>
-          <li>Tech 2</li>
-          <li>Tech 3</li>
-        </ul>
-      </td>
-      <td style="width: 50%; border: none;">
-        <h4>Backend</h4>
-        <ul>
-          <li>Tech 1</li>
-          <li>Tech 2</li>
-          <li>Tech 3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; border: none;">
-        <h4>Other</h4>
-        <ul>
-          <li>Tech 1</li>
-          <li>Tech 2</li>
-          <li>Tech 3</li>
-        </ul>
-      </td>
-      <td style="width: 50%; border: none;">
-        <h4>Other</h4>
-        <ul>
-          <li>Tech 1</li>
-          <li>Tech 2</li>
-          <li>Tech 3</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+* [![GitHub Flavored Markdown Spec](https://img.shields.io/badge/GitHub%20Flavored%20Markdown%20Spec-181717?style=flat&logo=github&logoColor=white)](https://github.github.com/gfm/)
+  * The specification for the Markdown syntax used in GitHub repositories.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+* [![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=flat&logo=cookiecutter&logoColor=white)](https://cookiecutter.readthedocs.io/en/latest/)
+  * Command-line utility for creating projects from project templates (cookiecutters).
+
+
+* [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+  * Automation tool for continuous integration and continuous deployment pipelines.
+
 
 <!-- Getting Started -->
 ## Getting Started
@@ -294,5 +270,6 @@ Project Link: [https://github.com/sj-codedemo/template-project-repository](https
 - [awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
 - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 - [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
+- [Simple Icons](https://simpleicons.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
