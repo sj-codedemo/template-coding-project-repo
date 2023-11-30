@@ -2,7 +2,7 @@
 README.md
 -->
 
-<!-- Anchor for linking to top of the file -->
+<!-- Anchor for linking to the top of the file -->
 <a name="readme-top"></a>
 
 <!-- Introduction Block -->
@@ -222,7 +222,9 @@ Please read the [Code of Conduct](https://github.com/sj-codedemo/template-projec
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See [LICENCE](LICENCE.txt) for more information.
+This project is licensed under the MIT licence. Feel free to edit and distribute this template as you like.
+
+See [LICENCE](LICENCE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,5 +247,8 @@ Project Link: [https://github.com/sj-codedemo/template-project-repository](https
 - [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 - [Simple Icons](https://simpleicons.org/)
 - [Commitlint](https://commitlint.io/)
+- [axolo-co/developer-resources](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
+- [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
