@@ -110,14 +110,11 @@ TODO: Write a paragraph here informing the user what the project is and why they
 * [![GitHub Flavored Markdown Spec](https://img.shields.io/badge/GitHub%20Flavored%20Markdown%20Spec-181717?style=flat&logo=github&logoColor=white)](https://github.github.com/gfm/)
   * The specification for the Markdown syntax used in GitHub repositories.
 
-
 * [![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=flat&logo=cookiecutter&logoColor=white)](https://cookiecutter.readthedocs.io/en/latest/)
   * Command-line utility for creating projects from project templates (cookiecutters).
 
-
 * [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
   * Automation tool for continuous integration and continuous deployment pipelines.
-
 
 <!-- Getting Started -->
 ## Getting Started
@@ -167,18 +164,76 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 <!-- Roadmap -->
 ## Roadmap
 
-- [x] Milestone 1
-    - [x] Objective 1
-    - [x] Objective 2
-    - [x] Objective 3
-- [ ] TODO: Milestone 2
-    - [ ] TODO: Objective 1
-    - [ ] TODO: Objective 2
-    - [ ] TODO: Objective 3
-- [ ] ...
+- [ ] Project Template
+  - [ ] .github/
+    - [ ] CODEOWNERS
+    - [ ] pull_request_template.md
+    - [ ] ISSUE_TEMPLATE/
+      - [ ] bug_report.md
+      - [ ] feature_request.md
+      - [ ] custom.md
+      - [ ] funding.yml
+      - [ ] question.md
+      - [ ] security.md 
+    - [ ] workflows/
+      - [ ] TODO: Add workflows
+      - [ ] TODO: Add workflows
+      - [ ] TODO: Add workflows
+
+  - [ ] Community Health Files
+    - [ ] CODE_OF_CONDUCT.md
+    - [ ] CONTRIBUTING.md
+    - [ ] Discussion category forms
+    - [ ] FUNDING.yml
+    - [ ] GOVERNANCE.md
+    - [ ] LICENCE
+    - [ ] SECURITY.md
+    - [ ] SUPPORT.md
+  
+  - [ ] README.md
+    - [ ] Placeholder Project Logo
+    - [ ] Title
+    - [ ] Description
+    - [ ] Badges
+      - [ ] Contributors
+      - [ ] Last Commit
+      - [ ] Forks
+      - [ ] Stars
+      - [ ] Open Issues
+      - [ ] License 
+      - [ ] Stable Release Version 
+      - [ ] Build Passing 
+      - [ ] Status of Dependencies 
+      - [ ] Code Coverage Percentage (e.g. Codecov)
+      - [ ] Static Code Analysis Grade (e.g. Codacy)
+      - [ ] Code Quality Score (e.g. Code Climate)
+    - [ ] Quick Links
+    - [ ] Table of Contents
+    - [ ] About the Project
+    - [ ] Features
+    - [ ] Built With
+    - [ ] Getting Started
+      - [ ] Prerequisites
+      - [ ] Usage
+    - [ ] Roadmap
+    - [ ] Contributing
+    - [ ] Code of Conduct
+    - [ ] FAQ
+    - [ ] Licence
+    - [ ] Contact
+    - [ ] Acknowledgements  
+
+  - [ ] Just the Docs Template (docs)
+    - [ ] _config.yml
+    - [ ] GEMFILE
+    - [ ] Gemfile.lock
+    - [ ] index.md
+    - [ ] assets/
+    - [ ] pages/
     - [ ] ...
-    - [ ] ...
-    - [ ] ...
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,7 +251,7 @@ See CONTRIBUTING.md for ways to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Code of Conduct -->
-### Code of Conduct
+## Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository/blob/master/CODE_OF_CONDUCT.md)
 
