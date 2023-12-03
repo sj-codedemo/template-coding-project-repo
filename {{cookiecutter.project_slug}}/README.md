@@ -269,10 +269,26 @@ Project Link: [https://github.com/{{cookiecutter.github_username}}/{{cookiecutte
 <!-- Acknowledgments -->
 ## Acknowledgements
 
-- [Shields.io](https://shields.io/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-- [Readme Template](https://github.com/othneildrew/Best-README-Template)
-- [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
+Many thanks to the following resources for helping me create this template:
+
+- **README and Documentation**
+
+    - [Awesome README - https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+    - [awesome-readme-template - https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+    - [Readme Template - https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+    - [axolo-co/developer-resources - https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
+    - [Keep a Changelog - https://keepachangelog.com/en/1.1.0/](https://keepachangelog.com/en/1.1.0/)
+- **Documentation Tools**
+
+    - [Just the Docs - https://pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
+    - [GitHub Pages - https://pages.github.com/](https://pages.github.com/)
+    - [Shields.io - https://shields.io/](https://shields.io/)
+    - [Simple Icons - https://simpleicons.org/](https://simpleicons.org/)
+- **Best Git Practices**
+
+    - [Commitlint - https://commitlint.io/](https://commitlint.io/)
+    - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+    - [Semantic Versioning - https://semver.org/](https://semver.org/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
