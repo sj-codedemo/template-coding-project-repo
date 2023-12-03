@@ -166,11 +166,11 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 
 - [ ] Project Template
   - [ ] .github/
-    - [ ] CODEOWNERS
-    - [ ] pull_request_template.md
+    - [x] CODEOWNERS
+    - [x] pull_request_template.md
     - [ ] ISSUE_TEMPLATE/
-      - [ ] bug_report.md
-      - [ ] feature_request.md
+      - [x] bug_report.md
+      - [x] feature_request.md
       - [ ] custom.md
       - [ ] funding.yml
       - [ ] question.md
@@ -181,26 +181,26 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
       - [ ] TODO: Add workflows
 
   - [ ] Community Health Files
-    - [ ] CODE_OF_CONDUCT.md
+    - [x] CODE_OF_CONDUCT.md
     - [ ] CONTRIBUTING.md
     - [ ] Discussion category forms
     - [ ] FUNDING.yml
     - [ ] GOVERNANCE.md
-    - [ ] LICENCE
+    - [x] LICENCE
     - [ ] SECURITY.md
     - [ ] SUPPORT.md
   
   - [ ] README.md
-    - [ ] Placeholder Project Logo
-    - [ ] Title
-    - [ ] Description
+    - [x] Placeholder Project Logo
+    - [x] Title
+    - [x] Description
     - [ ] Badges
-      - [ ] Contributors
-      - [ ] Last Commit
-      - [ ] Forks
-      - [ ] Stars
-      - [ ] Open Issues
-      - [ ] License 
+      - [x] Contributors
+      - [x] Last Commit
+      - [x] Forks
+      - [x] Stars
+      - [x] Open Issues
+      - [x] License 
       - [ ] Stable Release Version 
       - [ ] Build Passing 
       - [ ] Status of Dependencies 
@@ -208,17 +208,17 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
       - [ ] Static Code Analysis Grade (e.g. Codacy)
       - [ ] Code Quality Score (e.g. Code Climate)
     - [ ] Quick Links
-    - [ ] Table of Contents
-    - [ ] About the Project
-    - [ ] Features
-    - [ ] Built With
-    - [ ] Getting Started
-      - [ ] Prerequisites
-      - [ ] Usage
-    - [ ] Roadmap
+    - [x] Table of Contents
+    - [x] About the Project
+    - [x] Features
+    - [x] Built With
+    - [x] Getting Started
+      - [x] Prerequisites
+      - [x] Usage
+    - [x] Roadmap
     - [ ] Contributing
     - [ ] Code of Conduct
-    - [ ] FAQ
+    - [x] FAQ
     - [ ] Licence
     - [ ] Contact
     - [ ] Acknowledgements  
