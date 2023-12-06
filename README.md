@@ -223,13 +223,15 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
     - [ ] Contact
     - [ ] Acknowledgements  
 
-  - [ ] Just the Docs Template (docs)
-    - [ ] _config.yml
-    - [ ] GEMFILE
-    - [ ] Gemfile.lock
-    - [ ] index.md
-    - [ ] assets/
-    - [ ] pages/
+  - [ ] Docusaurus Template (docs)
+    - [ ] docusaurus.config.js
+    - [ ] sidebars.js
+    - [ ] package.json
+    - [ ] README.md
+    - [ ] blog/
+    - [ ] docs/
+    - [ ] src/
+    - [ ] static/
     - [ ] ...
 
 
