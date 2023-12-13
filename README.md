@@ -49,11 +49,16 @@ README.md
   </a>
 
   <!-- License -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="license" />
+  <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="codeql" />
   </a>
 
+  <br>
+
+  <!-- CodeQL -->
+  <img src="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/actions/workflows/codeql.yml/badge.svg" alt="codeql" />
+
 </p>
+
 
 <!-- Quick Links -->
 <h4>
