@@ -14,6 +14,7 @@ README.md
   <img src="./assets/logo.svg" alt="Project Logo" width="200" height="auto" />
 
   <!-- Header -->
+
 # My CookieCutter Coding Project Repo Template
 
   <!-- Brief Description / Tagline -->
@@ -77,13 +78,13 @@ README.md
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Features](#features)
+    - [Features](#features)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Python](#python)
-  - [Cookiecutter](#cookiecutter)
-  - [Usage](#usage)
+    - [Prerequisites](#prerequisites)
+    - [Python](#python)
+    - [Cookiecutter](#cookiecutter)
+    - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
@@ -98,7 +99,8 @@ README.md
 
 ![Screenshot](assets/readme_screenshot.png)
 
-TODO: Write a paragraph here informing the user what the project is and why they should be interested in it. Include a screenshot from the project above this paragraph.
+TODO: Write a paragraph here informing the user what the project is and why they should be interested in it. Include a
+screenshot from the project above this paragraph.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,11 +119,11 @@ TODO: Write a paragraph here informing the user what the project is and why they
 <!-- Note: Leave 2 blank spaces after list items/sub-items to ensure correct spacing between rendered list items -->
 
 - [![GitHub Flavoured Markdown Spec](https://img.shields.io/badge/GitHub%20Flavored%20Markdown%20Spec-181717?style=flat&logo=github&logoColor=white)](https://github.github.com/gfm/)
-  - The specification for the Markdown syntax used in GitHub repositories.
+    - The specification for the Markdown syntax used in GitHub repositories.
 - [![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=flat&logo=cookiecutter&logoColor=white)](https://cookiecutter.readthedocs.io/en/latest/)
-  - Command-line utility for creating projects from project templates (cookiecutters).
+    - Command-line utility for creating projects from project templates (cookiecutters).
 - [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-  - Automation tool for continuous integration and continuous deployment pipelines.
+    - Automation tool for continuous integration and continuous deployment pipelines.
 
 <!-- Getting Started -->
 
@@ -156,7 +158,7 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
     cookiecutter gh:sj-codedemo/template-project-repository
     ```
 
-    This command will clone the template from GitHub and prompt you to fill in various project details.
+   This command will clone the template from GitHub and prompt you to fill in various project details.
 
 2. Follow the interactive prompts to customise your project's configuration.
     - TODO: Add a gif of the interactive prompt steps
@@ -170,77 +172,77 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 
 - [ ] Project Template
 
-  - [ ] .github/
+    - [ ] .github/
 
-    - [x] CODEOWNERS
-    - [x] pull_request_template.md
-    - [ ] ISSUE_TEMPLATE/
-      - [x] bug_report.md
-      - [x] feature_request.md
-      - [ ] custom.md
-      - [ ] funding.yml
-      - [ ] question.md
-      - [ ] security.md
-    - [ ] workflows/
-      - [ ] TODO: Add workflows
-      - [ ] TODO: Add workflows
-      - [ ] TODO: Add workflows
+        - [x] CODEOWNERS
+        - [x] pull_request_template.md
+        - [ ] ISSUE_TEMPLATE/
+            - [x] bug_report.md
+            - [x] feature_request.md
+            - [ ] custom.md
+            - [ ] funding.yml
+            - [ ] question.md
+            - [ ] security.md
+        - [ ] workflows/
+            - [ ] TODO: Add workflows
+            - [ ] TODO: Add workflows
+            - [ ] TODO: Add workflows
 
-  - [ ] Community Health Files
+    - [ ] Community Health Files
 
-    - [x] CODE_OF_CONDUCT.md
-    - [ ] CONTRIBUTING.md
-    - [ ] Discussion category forms
-    - [ ] FUNDING.yml
-    - [ ] GOVERNANCE.md
-    - [x] LICENCE
-    - [ ] SECURITY.md
-    - [ ] SUPPORT.md
+        - [x] CODE_OF_CONDUCT.md
+        - [ ] CONTRIBUTING.md
+        - [ ] Discussion category forms
+        - [ ] FUNDING.yml
+        - [ ] GOVERNANCE.md
+        - [x] LICENCE
+        - [ ] SECURITY.md
+        - [ ] SUPPORT.md
 
-  - [ ] README.md
-
-    - [x] Placeholder Project Logo
-    - [x] Title
-    - [x] Description
-    - [ ] Badges
-      - [x] Contributors
-      - [x] Last Commit
-      - [x] Forks
-      - [x] Stars
-      - [x] Open Issues
-      - [x] License
-      - [ ] Stable Release Version
-      - [ ] Build Passing
-      - [ ] Status of Dependencies
-      - [ ] Code Coverage Percentage (e.g. Codecov)
-      - [ ] Static Code Analysis Grade (e.g. Codacy)
-      - [ ] Code Quality Score (e.g. Code Climate)
-    - [ ] Quick Links
-    - [x] Table of Contents
-    - [x] About the Project
-    - [x] Features
-    - [x] Built With
-    - [x] Getting Started
-      - [x] Prerequisites
-      - [x] Usage
-    - [x] Roadmap
-    - [ ] Contributing
-    - [ ] Code of Conduct
-    - [x] FAQ
-    - [ ] Licence
-    - [ ] Contact
-    - [ ] Acknowledgements
-
-  - [ ] Docusaurus Template (docs)
-    - [ ] docusaurus.config.js
-    - [ ] sidebars.js
-    - [ ] package.json
     - [ ] README.md
-    - [ ] blog/
-    - [ ] docs/
-    - [ ] src/
-    - [ ] static/
-    - [ ] ...
+
+        - [x] Placeholder Project Logo
+        - [x] Title
+        - [x] Description
+        - [ ] Badges
+            - [x] Contributors
+            - [x] Last Commit
+            - [x] Forks
+            - [x] Stars
+            - [x] Open Issues
+            - [x] License
+            - [ ] Stable Release Version
+            - [ ] Build Passing
+            - [ ] Status of Dependencies
+            - [ ] Code Coverage Percentage (e.g. Codecov)
+            - [ ] Static Code Analysis Grade (e.g. Codacy)
+            - [ ] Code Quality Score (e.g. Code Climate)
+        - [ ] Quick Links
+        - [x] Table of Contents
+        - [x] About the Project
+        - [x] Features
+        - [x] Built With
+        - [x] Getting Started
+            - [x] Prerequisites
+            - [x] Usage
+        - [x] Roadmap
+        - [ ] Contributing
+        - [ ] Code of Conduct
+        - [x] FAQ
+        - [ ] Licence
+        - [ ] Contact
+        - [ ] Acknowledgements
+
+    - [ ] Docusaurus Template (docs)
+        - [ ] docusaurus.config.js
+        - [ ] sidebars.js
+        - [ ] package.json
+        - [ ] README.md
+        - [ ] blog/
+        - [ ] docs/
+        - [ ] src/
+        - [ ] static/
+        - [ ] ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,7 +262,8 @@ See CONTRIBUTING.md for ways to get started.
 
 ## Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository/blob/master/CODE_OF_CONDUCT.md)
+Please read
+the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository/blob/master/CODE_OF_CONDUCT.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -270,15 +273,15 @@ Please read the [Code of Conduct](https://github.com/sj-codedemo/template-projec
 
 - Question 1
 
-  - Answer 1
+    - Answer 1
 
 - Question 2
 
-  - Answer 2
+    - Answer 2
 
 - Question 3
 
-  - Answer 3
+    - Answer 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -298,7 +301,8 @@ See [LICENCE](LICENCE.txt) for more information.
 
 sj-codedemo - [141835690+sj-codedemo@users.noreply.github.com](mailto:141835690+sj-codedemo@users.noreply.github.com)
 
-Project Link: [https://github.com/sj-codedemo/template-project-repository](https://github.com/sj-codedemo/template-project-repository)
+Project
+Link: [https://github.com/sj-codedemo/template-project-repository](https://github.com/sj-codedemo/template-project-repository)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -310,23 +314,23 @@ Many thanks to the following resources for helping me create this template:
 
 - **README and Documentation**
 
-  - [Awesome README - https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-  - [awesome-readme-template - https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-  - [Readme Template - https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-  - [axolo-co/developer-resources - https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
-  - [Keep a Changelog - https://keepachangelog.com/en/1.1.0/](https://keepachangelog.com/en/1.1.0/)
+    - [Awesome README - https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+    - [awesome-readme-template - https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+    - [Readme Template - https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+    - [axolo-co/developer-resources - https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
+    - [Keep a Changelog - https://keepachangelog.com/en/1.1.0/](https://keepachangelog.com/en/1.1.0/)
 
 - **Documentation Tools**
 
-  - [Just the Docs - https://pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
-  - [GitHub Pages - https://pages.github.com/](https://pages.github.com/)
-  - [Shields.io - https://shields.io/](https://shields.io/)
-  - [Simple Icons - https://simpleicons.org/](https://simpleicons.org/)
+    - [Just the Docs - https://pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
+    - [GitHub Pages - https://pages.github.com/](https://pages.github.com/)
+    - [Shields.io - https://shields.io/](https://shields.io/)
+    - [Simple Icons - https://simpleicons.org/](https://simpleicons.org/)
 
 - **Best Git Practices**
 
-  - [Commitlint - https://commitlint.io/](https://commitlint.io/)
-  - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
-  - [Semantic Versioning - https://semver.org/](https://semver.org/)
+    - [Commitlint - https://commitlint.io/](https://commitlint.io/)
+    - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+    - [Semantic Versioning - https://semver.org/](https://semver.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -14,7 +14,7 @@ README.md
   <p>
     Template README.md file for new projects.
   </p>
-  
+
 <!-- Badges/Shields -->
 <p>
   <a href="https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}/graphs/contributors">
@@ -51,34 +51,38 @@ README.md
 <br />
 
 <!-- Table of Contents -->
+
 # Table of Contents
 
 1. [Table of Contents](#table-of-contents)
-   1. [About the Project](#about-the-project)
-      1. [Features](#features)
-      2. [Build With](#build-with)
-   2. [Getting Started](#getting-started)
-      1. [Prerequisites](#prerequisites)
-      2. [Installation](#installation)
-      3. [Running](#running)
-   3. [Roadmap](#roadmap)
-   4. [Contributing](#contributing)
-      1. [Code of Conduct](#code-of-conduct)
-   5. [FAQ](#faq)
-   6. [License](#license)
-   7. [Contact](#contact)
-   8. [Acknowledgements](#acknowledgements)
-  
+    1. [About the Project](#about-the-project)
+        1. [Features](#features)
+        2. [Build With](#build-with)
+    2. [Getting Started](#getting-started)
+        1. [Prerequisites](#prerequisites)
+        2. [Installation](#installation)
+        3. [Running](#running)
+    3. [Roadmap](#roadmap)
+    4. [Contributing](#contributing)
+        1. [Code of Conduct](#code-of-conduct)
+    5. [FAQ](#faq)
+    6. [License](#license)
+    7. [Contact](#contact)
+    8. [Acknowledgements](#acknowledgements)
+
 <!-- About the Project -->
+
 ## About the Project
 
 ![](assets/readme_screenshot.png)
 
-TODO: Write a paragraph here informing the user what the project is and why they should be interested in it. Include a screenshot from the project above this paragraph.
+TODO: Write a paragraph here informing the user what the project is and why they should be interested in it. Include a
+screenshot from the project above this paragraph.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
+
 ### Features
 
 - Feature 1
@@ -88,6 +92,7 @@ TODO: Write a paragraph here informing the user what the project is and why they
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TechStack -->
+
 ### Build With
 
 <div style="width: 100%;">
@@ -134,11 +139,14 @@ TODO: Write a paragraph here informing the user what the project is and why they
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Getting Started -->
+
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and
+running follow these simple example steps.
 
 <!-- Prerequisites -->
+
 ### Prerequisites
 
 - Prerequisite 1
@@ -154,6 +162,7 @@ This is an example of how you may give instructions on setting up your project l
   ```
 
 <!-- Installation -->
+
 ### Installation
 
 _Provide instructions to users for how to install and set up the app._
@@ -171,6 +180,7 @@ _Provide instructions to users for how to install and set up the app._
    ```
 
 <!-- Running -->
+
 ### Running
 
 _Provide instructions to users for how to run the app._
@@ -196,6 +206,7 @@ _Provide instructions to users for how to run the app._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Roadmap -->
+
 ## Roadmap
 
 - [x] Milestone 1
@@ -214,6 +225,7 @@ _Provide instructions to users for how to run the app._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
+
 ## Contributing
 
 <a href="https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}/graphs/contributors">
@@ -227,13 +239,16 @@ See CONTRIBUTING.md for ways to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Code of Conduct -->
+
 ### Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}/blob/master/CODE_OF_CONDUCT.md)
+Please read
+the [Code of Conduct](https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}/blob/master/CODE_OF_CONDUCT.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ -->
+
 ## FAQ
 
 - Question 1
@@ -251,6 +266,7 @@ Please read the [Code of Conduct](https://github.com/{{cookiecutter.github_usern
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- License -->
+
 ## License
 
 Distributed under the MIT License. See [LICENCE](LICENCE.txt) for more information.
@@ -258,37 +274,39 @@ Distributed under the MIT License. See [LICENCE](LICENCE.txt) for more informati
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
+
 ## Contact
 
 {{cookiecutter.github_username}} - [{{cookiecutter.email}}](mailto:{{cookiecutter.email}})
 
-Project Link: [https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}](https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}})
+Project
+Link: [https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}](https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}})
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Acknowledgments -->
+
 ## Acknowledgements
 
 Many thanks to the following resources for helping me create this template:
 
 - **README and Documentation**
 
-    - [Awesome README - https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
-    - [awesome-readme-template - https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-    - [Readme Template - https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-    - [axolo-co/developer-resources - https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
-    - [Keep a Changelog - https://keepachangelog.com/en/1.1.0/](https://keepachangelog.com/en/1.1.0/)
+  - [Awesome README - https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+  - [awesome-readme-template - https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+  - [Readme Template - https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+  - [axolo-co/developer-resources - https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates](https://github.com/axolo-co/developer-resources/tree/main/pull-request-templates)
+  - [Keep a Changelog - https://keepachangelog.com/en/1.1.0/](https://keepachangelog.com/en/1.1.0/)
 - **Documentation Tools**
 
-    - [Just the Docs - https://pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
-    - [GitHub Pages - https://pages.github.com/](https://pages.github.com/)
-    - [Shields.io - https://shields.io/](https://shields.io/)
-    - [Simple Icons - https://simpleicons.org/](https://simpleicons.org/)
+  - [Just the Docs - https://pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/)
+  - [GitHub Pages - https://pages.github.com/](https://pages.github.com/)
+  - [Shields.io - https://shields.io/](https://shields.io/)
+  - [Simple Icons - https://simpleicons.org/](https://simpleicons.org/)
 - **Best Git Practices**
 
-    - [Commitlint - https://commitlint.io/](https://commitlint.io/)
-    - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
-    - [Semantic Versioning - https://semver.org/](https://semver.org/)
-
+  - [Commitlint - https://commitlint.io/](https://commitlint.io/)
+  - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+  - [Semantic Versioning - https://semver.org/](https://semver.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

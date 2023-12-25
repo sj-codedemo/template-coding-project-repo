@@ -1,18 +1,18 @@
 {
-    "project_name": "My Project",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
-    "github_username": "github_username",
-    "author_name": "Your Name",
-    "email": "your.email@example.com",
-    "version": "0.1.0",
-    "license": [
-        "MIT license",
-        "BSD license",
-        "Apache Software License 2.0",
-        "GNU General Public License v3",
-        "Not open source"
-      ],
-    "description": "A short description of the project.",
-    "current_year": "{% now 'utc', '%Y' %}"
-  }
+  "project_name": "My Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+  "github_username": "github_username",
+  "author_name": "Your Name",
+  "email": "your.email@example.com",
+  "version": "0.1.0",
+  "license": [
+    "MIT license",
+    "BSD license",
+    "Apache Software License 2.0",
+    "GNU General Public License v3",
+    "Not open source"
+  ],
+  "description": "A short description of the project.",
+  "current_year": "{% now 'utc', '%Y' %}"
+}
   

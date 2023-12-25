@@ -1,7 +1,9 @@
 # Pull Request
 
 ## Description
-Please include a summary of the change and which issue is fixed. Also, include relevant motivation and context. List any dependencies that are required for this change.
+
+Please include a summary of the change and which issue is fixed. Also, include relevant motivation and context. List any
+dependencies that are required for this change.
 
 Fixes # (issue number)
 
@@ -22,19 +24,19 @@ Please check the options that are relevant for your Pull Request.
 - [ ] Test (Adding missing tests or correcting existing tests)
 - [ ] Other (Please describe)
 
-
 ## How Has This Been Tested?
 
-Please describe the tests that you ran to verify your changes. Provide instructions that can be reproduced. Please also list any relevant details for your test configuration.
+Please describe the tests that you ran to verify your changes. Provide instructions that can be reproduced. Please also
+list any relevant details for your test configuration.
 
 - [ ] Test A
 - [ ] Test B
 
 **Test Configuration**:
 
-* **Detail 1:** 
-* **Detail 2:** 
-* **Detail 3:** 
+* **Detail 1:**
+* **Detail 2:**
+* **Detail 3:**
 * ...
 
 ## Checklist:
@@ -51,5 +53,6 @@ Before you submit your pull request, please make sure you have completed the fol
 - [ ] Any dependent changes have been merged and published in downstream modules.
 
 ## Additional Information
+
 Include any additional information, configuration, or data that might be necessary to reproduce the issue.
 
