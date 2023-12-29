@@ -15,4 +15,3 @@
   "description": "A short description of the project.",
   "current_year": "{% now 'utc', '%Y' %}"
 }
-  

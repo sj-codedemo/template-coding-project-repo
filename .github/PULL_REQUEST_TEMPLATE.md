@@ -34,12 +34,12 @@ list any relevant details for your test configuration.
 
 **Test Configuration**:
 
-* **Detail 1:**
-* **Detail 2:**
-* **Detail 3:**
-* ...
+- **Detail 1:**
+- **Detail 2:**
+- **Detail 3:**
+- ...
 
-## Checklist:
+## Checklist
 
 Before you submit your pull request, please make sure you have completed the following checklist:
 
@@ -55,4 +55,3 @@ Before you submit your pull request, please make sure you have completed the fol
 ## Additional Information
 
 Include any additional information, configuration, or data that might be necessary to reproduce the issue.
-

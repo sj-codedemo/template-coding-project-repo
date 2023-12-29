@@ -3,7 +3,6 @@ README.md
 -->
 
 <!-- Anchor for linking to the top of the file -->
-
 <a name="readme-top"></a>
 
 <!-- Introduction Block -->
@@ -14,8 +13,7 @@ README.md
   <img src="./assets/logo.svg" alt="Project Logo" width="200" height="auto" />
 
   <!-- Header -->
-
-# My CookieCutter Coding Project Repo Template
+  <h1>My CookieCutter Coding Project Repo Template</h1>
 
   <!-- Brief Description / Tagline -->
   <p>
@@ -27,35 +25,30 @@ README.md
 <p>
 
   <!-- Contributors -->
+  <!-- Row 1 -->
   <a href="https://github.com/sj-codedemo/template-project-repository/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/sj-codedemo/template-project-repository" alt="contributors" />
   </a>
-
   <!-- Last Commit -->
   <a href="">
     <img src="https://img.shields.io/github/last-commit/sj-codedemo/template-project-repository" alt="last update" />
   </a>
-
   <!-- Forks -->
   <a href="https://github.com/sj-codedemo/template-project-repository/network/members">
     <img src="https://img.shields.io/github/forks/sj-codedemo/template-project-repository" alt="forks" />
   </a>
-
   <!-- Stars -->
   <a href="https://github.com/sj-codedemo/template-project-repository/stargazers">
     <img src="https://img.shields.io/github/stars/sj-codedemo/template-project-repository" alt="stars" />
   </a>
-
   <!-- Open Issues -->
   <a href="https://github.com/sj-codedemo/template-project-repository/issues/">
     <img src="https://img.shields.io/github/issues/sj-codedemo/template-project-repository" alt="open issues" />
   </a>
-
   <!-- License -->
   <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="codeql" />
-
+  <!-- Row 2 -->
   <br>
-
   <!-- CodeQL -->
   <img src="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/actions/workflows/codeql.yml/badge.svg" alt="codeql" />
 
@@ -73,18 +66,20 @@ README.md
   </h4>
 </div>
 
-<!-- Table of Contents -->
+<!-- End of Introduction Block -->
 
+<!-- Table of Contents -->
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [About the Project](#about-the-project)
-    - [Features](#features)
+  - [Features](#features)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Python](#python)
-    - [Cookiecutter](#cookiecutter)
-    - [Usage](#usage)
+  - [Prerequisites](#prerequisites)
+  - [Python](#python)
+  - [Cookiecutter](#cookiecutter)
+  - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
@@ -94,7 +89,6 @@ README.md
 - [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
-
 ## About the Project
 
 ![Screenshot](assets/readme_screenshot.png)
@@ -105,7 +99,6 @@ screenshot from the project above this paragraph.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
-
 ### Features
 
 - Feature 1
@@ -114,23 +107,20 @@ screenshot from the project above this paragraph.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Built With -->
 ## Built With
-
-<!-- Note: Leave 2 blank spaces after list items/sub-items to ensure correct spacing between rendered list items -->
 
 - [![GitHub Flavoured Markdown Spec](https://img.shields.io/badge/GitHub%20Flavored%20Markdown%20Spec-181717?style=flat&logo=github&logoColor=white)](https://github.github.com/gfm/)
     - The specification for the Markdown syntax used in GitHub repositories.
 - [![Cookiecutter](https://img.shields.io/badge/Cookiecutter-D4AA00?style=flat&logo=cookiecutter&logoColor=white)](https://cookiecutter.readthedocs.io/en/latest/)
-    - Command-line utility for creating projects from project templates (cookiecutters).
+    - Command-line utility for creating projects from project templates (Cookiecutters).
 - [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
     - Automation tool for continuous integration and continuous deployment pipelines.
 
 <!-- Getting Started -->
-
 ## Getting Started
 
 <!-- Prerequisites -->
-
 ### Prerequisites
 
 ### Python
@@ -147,7 +137,6 @@ For other installation options and detailed instructions,
 refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.io/en/latest/installation.html).
 
 <!-- Usage -->
-
 ### Usage
 
 **To create a new project from this template:**
@@ -167,13 +156,10 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Roadmap -->
-
 ## Roadmap
 
 - [ ] Project Template
-
     - [ ] .github/
-
         - [x] CODEOWNERS
         - [x] pull_request_template.md
         - [ ] ISSUE_TEMPLATE/
@@ -187,9 +173,7 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
             - [ ] TODO: Add workflows
             - [ ] TODO: Add workflows
             - [ ] TODO: Add workflows
-
     - [ ] Community Health Files
-
         - [x] CODE_OF_CONDUCT.md
         - [ ] CONTRIBUTING.md
         - [ ] Discussion category forms
@@ -198,9 +182,7 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
         - [x] LICENCE
         - [ ] SECURITY.md
         - [ ] SUPPORT.md
-
     - [ ] README.md
-
         - [x] Placeholder Project Logo
         - [x] Title
         - [x] Description
@@ -232,7 +214,6 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
         - [ ] Licence
         - [ ] Contact
         - [ ] Acknowledgements
-
     - [ ] Docusaurus Template (docs)
         - [ ] docusaurus.config.js
         - [ ] sidebars.js
@@ -247,7 +228,6 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
-
 ## Contributing
 
 [![Contributors](https://contrib.rocks/image?repo=sj-codedemo/template-project-repository)](https://github.com/sj-codedemo/template-project-repository/graphs/contributors)
@@ -259,7 +239,6 @@ See CONTRIBUTING.md for ways to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Code of Conduct -->
-
 ## Code of Conduct
 
 Please read
@@ -268,25 +247,18 @@ the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ -->
-
 ## FAQ
 
 - Question 1
-
     - Answer 1
-
 - Question 2
-
     - Answer 2
-
 - Question 3
-
     - Answer 3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- License -->
-
 ## License
 
 This project is licensed under the MIT licence. Feel free to edit and distribute this template as you like.
@@ -296,7 +268,6 @@ See [LICENCE](LICENCE.txt) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
-
 ## Contact
 
 sj-codedemo - [141835690+sj-codedemo@users.noreply.github.com](mailto:141835690+sj-codedemo@users.noreply.github.com)
@@ -307,7 +278,6 @@ Link: [https://github.com/sj-codedemo/template-project-repository](https://githu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Acknowledgments -->
-
 ## Acknowledgements
 
 Many thanks to the following resources for helping me create this template:

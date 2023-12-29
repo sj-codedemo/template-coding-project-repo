@@ -1,5 +1,5 @@
 module.exports = {
-    extends:'@commitlint/config-conventional',
+    extends: '@commitlint/config-conventional',
     // parserPreset: 'conventional-changelog-conventionalcommits',
     // rules: {
     //     'body-leading-blank': [1, 'always'],
@@ -37,8 +37,8 @@ module.exports = {
     // prompt: {
     //     questions: {
     //         type: {
-    //             description: "Select the type of change that you're committing",
-    //             enum: {
+    //             description: "Select the type of change that you're
+    //             committing", enum: {
     //                 feat: {
     //                     description: 'A new feature',
     //                     title: 'Features',
@@ -56,13 +56,16 @@ module.exports = {
     //                 },
     //                 style: {
     //                     description:
-    //                         'Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)',
+    //                         'Changes that do not affect the meaning of the code
+    //                         (white-space, formatting, missing semi-colons,
+    //                         etc)',
     //                     title: 'Styles',
     //                     emoji: '💎',
     //                 },
     //                 refactor: {
     //                     description:
-    //                         'A code change that neither fixes a bug nor adds a feature',
+    //                         'A code change that neither fixes a bug nor adds a
+    //                         feature',
     //                     title: 'Code Refactoring',
     //                     emoji: '📦',
     //                 },
@@ -72,26 +75,28 @@ module.exports = {
     //                     emoji: '🚀',
     //                 },
     //                 test: {
-    //                     description: 'Adding missing tests or correcting existing tests',
-    //                     title: 'Tests',
-    //                     emoji: '🚨',
+    //                     description: 'Adding missing tests or correcting
+    //                     existing tests', title: 'Tests', emoji: '🚨',
     //                 },
     //                 build: {
     //                     description:
-    //                         'Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)',
+    //                         'Changes that affect the build system or external
+    //                         dependencies (example scopes: gulp, broccoli,
+    //                         npm)',
     //                     title: 'Builds',
     //                     emoji: '🛠',
     //                 },
     //                 ci: {
     //                     description:
-    //                         'Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)',
+    //                         'Changes to our CI configuration files and scripts
+    //                         (example scopes: Travis, Circle, BrowserStack,
+    //                         SauceLabs)',
     //                     title: 'Continuous Integrations',
     //                     emoji: '⚙️',
     //                 },
     //                 chore: {
-    //                     description: "Other changes that don't modify src or test files",
-    //                     title: 'Chores',
-    //                     emoji: '♻️',
+    //                     description: "Other changes that don't modify src or
+    //                     test files", title: 'Chores', emoji: '♻️',
     //                 },
     //                 revert: {
     //                     description: 'Reverts a previous commit',
@@ -102,11 +107,13 @@ module.exports = {
     //         },
     //         scope: {
     //             description:
-    //                 'What is the scope of this change (e.g. component or file name)',
+    //                 'What is the scope of this change (e.g. component or file
+    //                 name)',
     //         },
     //         subject: {
     //             description:
-    //                 'Write a short, imperative tense description of the change',
+    //                 'Write a short, imperative tense description of the
+    //                 change',
     //         },
     //         body: {
     //             description: 'Provide a longer description of the change',
@@ -116,7 +123,8 @@ module.exports = {
     //         },
     //         breakingBody: {
     //             description:
-    //                 'A BREAKING CHANGE commit requires a body. Please enter a longer description of the commit itself',
+    //                 'A BREAKING CHANGE commit requires a body. Please enter a
+    //                 longer description of the commit itself',
     //         },
     //         breaking: {
     //             description: 'Describe the breaking changes',
@@ -126,10 +134,12 @@ module.exports = {
     //         },
     //         issuesBody: {
     //             description:
-    //                 'If issues are closed, the commit requires a body. Please enter a longer description of the commit itself',
+    //                 'If issues are closed, the commit requires a body. Please
+    //                 enter a longer description of the commit itself',
     //         },
     //         issues: {
-    //             description: 'Add issue references (e.g. "fix #123", "re #123".)',
+    //             description: 'Add issue references (e.g. "fix #123", "re
+    //             #123".)',
     //         },
     //     },
     // },
