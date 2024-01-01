@@ -55,4 +55,3 @@ Before you submit your pull request, please make sure you have completed the fol
 ## Additional Information
 
 Include any additional information, configuration, or data that might be necessary to reproduce the issue.
-
