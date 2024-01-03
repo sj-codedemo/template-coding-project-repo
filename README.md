@@ -1,71 +1,67 @@
-<!--
-README.md
--->
-
-<!-- Anchor for linking to the top of the file -->
-<a name="readme-top"></a>
+<!-- README.md -->
 
 <!-- Introduction Block -->
-
-<!-- Project Logo/Icon -->
 <div align="center">
 
-  <img src="./assets/logo.svg" alt="Project Logo" width="200" height="auto" />
+  <!-- Project Logo/Icon -->
+  <img src="./assets/logo.svg" alt="Project Logo" width="150" height="150" />
 
-  <!-- Header -->
-  <h1>My CookieCutter Coding Project Repo Template</h1>
+  <!-- Header/Project Name-->
+  <h2>My CookieCutter Coding Project Repo Template</h2>
 
-  <!-- Brief Description / Tagline -->
-  <p>
-    This is my attempt at creating a CookieCutter Template for GitHub Coding Projects. <br>
-    See the acknowledgements for links to the resources I used to create this template.
-  </p>
+  <!-- Brief Description -->
+  This is my attempt at creating a CookieCutter Template for GitHub Coding Projects. <br>
+  See the [acknowledgements](#acknowledgements) for links to the resources I used to create this template.
 
-<!-- Badges/Shields -->
-<p>
+  <!-- Subtitle link to documentation-->
+  [Explore the docs »](#)
 
-  <!-- Contributors -->
-  <!-- Row 1 -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/sj-codedemo/template-project-repository" alt="contributors" />
-  </a>
-  <!-- Last Commit -->
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/sj-codedemo/template-project-repository" alt="last update" />
-  </a>
-  <!-- Forks -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/network/members">
-    <img src="https://img.shields.io/github/forks/sj-codedemo/template-project-repository" alt="forks" />
-  </a>
-  <!-- Stars -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/stargazers">
-    <img src="https://img.shields.io/github/stars/sj-codedemo/template-project-repository" alt="stars" />
-  </a>
-  <!-- Open Issues -->
-  <a href="https://github.com/sj-codedemo/template-project-repository/issues/">
-    <img src="https://img.shields.io/github/issues/sj-codedemo/template-project-repository" alt="open issues" />
-  </a>
-  <!-- License -->
-  <img src="https://img.shields.io/github/license/sj-codedemo/template-project-repository.svg" alt="codeql" />
-  <!-- Row 2 -->
-  <br>
-  <!-- CodeQL -->
-  <img src="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/actions/workflows/codeql.yml/badge.svg" alt="codeql" />
-
-</p>
-
-<!-- Quick Links -->
-<h4>
-    <a href="https://github.com/sj-codedemo/template-project-repository/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/sj-codedemo/template-project-repository">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/sj-codedemo/template-project-repository/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/sj-codedemo/template-project-repository/issues/">Request Feature</a>
+  <!-- Quick Links -->
+  <h4>
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/">View Demo</a>
+    <span> · </span>
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo">Documentation</a>
+    <span> · </span>
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/issues/">Report Bug</a>
+    <span> · </span>
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/issues/">Request Feature</a>
   </h4>
-</div>
 
+  <br>
+  <!-- Badges/Shields -->
+  <p>
+    <!-- Row 1 -->
+    <!-- Contributors -->
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/sj-codedemo/cookiecutter-coding-project-repo"
+        alt="contributors" />
+    </a>
+    <!-- Last Commit -->
+    <a href="">
+      <img src="https://img.shields.io/github/last-commit/sj-codedemo/cookiecutter-coding-project-repo"
+        alt="last update" />
+    </a>
+    <!-- Forks -->
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/network/members">
+      <img src="https://img.shields.io/github/forks/sj-codedemo/cookiecutter-coding-project-repo" alt="forks" />
+    </a>
+    <!-- Stars -->
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/stargazers">
+      <img src="https://img.shields.io/github/stars/sj-codedemo/cookiecutter-coding-project-repo" alt="stars" />
+    </a>
+    <!-- Open Issues -->
+    <a href="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/issues/">
+      <img src="https://img.shields.io/github/issues/sj-codedemo/cookiecutter-coding-project-repo" alt="open  issues" />
+    </a>
+    <!-- License -->
+    <img src="https://img.shields.io/github/license/sj-codedemo/cookiecutter-coding-project-repo.svg" alt="codeql" />
+    <!-- Row 2 -->
+    <br>
+    <!-- CodeQL -->
+    <img src="https://github.com/sj-codedemo/cookiecutter-coding-project-repo/actions/workflows/codeql.yml/badge.svg"
+      alt="codeql" />
+  </p>
+</div>
 <!-- End of Introduction Block -->
 
 <!-- Table of Contents -->
@@ -77,8 +73,6 @@ README.md
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Python](#python)
-  - [Cookiecutter](#cookiecutter)
   - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -96,7 +90,7 @@ README.md
 TODO: Write a paragraph here informing the user what the project is and why they should be interested in it. Include a
 screenshot from the project above this paragraph.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Features -->
 ### Features
@@ -105,7 +99,7 @@ screenshot from the project above this paragraph.
 - Feature 2
 - Feature 3
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Built With -->
 ## Built With
@@ -123,18 +117,18 @@ screenshot from the project above this paragraph.
 <!-- Prerequisites -->
 ### Prerequisites
 
-### Python
+* Python
 
-Visit [https://www.python.org/downloads/](https://www.python.org/downloads/) for installation instructions.
+  Visit [https://www.python.org/downloads/](https://www.python.org/downloads/) for installation instructions.
 
-### Cookiecutter
+* Cookiecutter
 
-```bash
-pip install -U cookiecutter
-```
+  ```bash
+  pip install -U cookiecutter
+  ```
 
-For other installation options and detailed instructions,
-refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.io/en/latest/installation.html).
+  For other installation options and detailed instructions,
+  refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.io/en/latest/installation.html).
 
 <!-- Usage -->
 ### Usage
@@ -144,16 +138,16 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
 1. Run the following command to generate a new project from the template:
 
     ```bash
-    cookiecutter gh:sj-codedemo/template-project-repository
+    cookiecutter gh:sj-codedemo/cookiecutter-coding-project-repo
     ```
 
-   This command will clone the template from GitHub and prompt you to fill in various project details.
+    This command will clone the template from GitHub and prompt you to fill in specific project details.
 
 2. Follow the interactive prompts to customise your project's configuration.
     - TODO: Add a gif of the interactive prompt steps
     - TODO: Add a code block with the prompts and options
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Roadmap -->
 ## Roadmap
@@ -225,26 +219,26 @@ refer to the [Cookiecutter Installation Guide](https://cookiecutter.readthedocs.
         - [ ] static/
         - [ ] ...
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Contributing -->
 ## Contributing
 
-[![Contributors](https://contrib.rocks/image?repo=sj-codedemo/template-project-repository)](https://github.com/sj-codedemo/template-project-repository/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=sj-codedemo/cookiecutter-coding-project-repo)](https://github.com/sj-codedemo/cookiecutter-coding-project-repo/graphs/contributors)
 
 Contributions are always welcome!
 
-See CONTRIBUTING.md for ways to get started.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Code of Conduct -->
 ## Code of Conduct
 
 Please read
-the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository/blob/master/CODE_OF_CONDUCT.md)
+the [Code of Conduct](https://github.com/sj-codedemo/cookiecutter-coding-project-repo/blob/master/CODE_OF_CONDUCT.md)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- FAQ -->
 ## FAQ
@@ -256,16 +250,16 @@ the [Code of Conduct](https://github.com/sj-codedemo/template-project-repository
 - Question 3
     - Answer 3
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- License -->
 ## License
 
-This project is licensed under the MIT licence. Feel free to edit and distribute this template as you like.
+This project is distributed under the MIT licence.
 
-See [LICENCE](LICENCE.txt) for more information.
+See [LICENCE](LICENCE) for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Contact -->
 ## Contact
@@ -273,9 +267,9 @@ See [LICENCE](LICENCE.txt) for more information.
 sj-codedemo - [141835690+sj-codedemo@users.noreply.github.com](mailto:141835690+sj-codedemo@users.noreply.github.com)
 
 Project
-Link: [https://github.com/sj-codedemo/template-project-repository](https://github.com/sj-codedemo/template-project-repository)
+Link: [https://github.com/sj-codedemo/cookiecutter-coding-project-repo](https://github.com/sj-codedemo/cookiecutter-coding-project-repo)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 <!-- Acknowledgments -->
 ## Acknowledgements
@@ -303,4 +297,4 @@ Many thanks to the following resources for helping me create this template:
     - [Conventional Commits Specification - https://www.conventionalcommits.org/en/v1.0.0/#specification](https://www.conventionalcommits.org/en/v1.0.0/#specification)
     - [Semantic Versioning - https://semver.org/](https://semver.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
