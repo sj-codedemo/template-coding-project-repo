@@ -1,0 +1,70 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# For information about how to configure Dependabot, see: 
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+# version: 2
+# updates:
+    # Supported package managers:
+    # bundler
+    # cargo
+    # composer
+    # docker
+    # mix
+    # elm
+    # gitsubmodule
+    # github-actions
+    # gomod
+    # gradle
+    # maven
+    # npm
+    # nuget
+    # pip, pipenv, pip-compile, poetry (use 'pip')
+    # pub
+    # terraform
+    # yarn (use 'npm')
+#   # Maintain dependencies for GitHub Actions
+#   - package-ecosystem: "github-actions"
+#     directory: "/"
+#     schedule:
+#       interval: "daily"
+#       day: "monday"
+#       time: "05:00"
+#       timezone: "Etc/GMT"
+#     open-pull-requests-limit: 10
+#     target-branch: "develop"
+
+
+#   # Maintain dependencies for npm
+#   - package-ecosystem: "npm"
+#     directory: "/" # Adjust for different directory
+#     schedule:
+#       interval: "weekly"
+#       day: "monday"
+#       time: "05:00"
+#       timezone: "Etc/GMT"
+#     open-pull-requests-limit: 10 
+#     target-branch: "develop"
+
+#   # Maintain dependencies for pip
+#   - package-ecosystem: "pip"
+#     directory: "/" # Adjust for different directory
+#     schedule:
+#       interval: "weekly"
+#       day: "monday"
+#       time: "05:00"
+#       timezone: "Etc/GMT"
+#     open-pull-requests-limit: 10
+#     target-branch: "develop"
+
+#   # Template entry
+#   # Maintain dependencies for <package-ecosystem>
+#   - package-ecosystem: "<package-ecosystem>"
+#     directory: "/" # The location of the package manifests for each package manager
+#     schedule: 
+#       interval: "weekly" 
+#       day: "monday"
+#       time: "05:00"
+#       timezone: "Etc/GMT"
+#     open-pull-requests-limit: 10
+#     target-branch: "develop"
